@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 I am Elina. I am a data scientist in the making, in the midst of a career change. 
 I'm currently enrolled in CUNY Graduate Center's Master's in Data Science Program. I also work full time as a researcher in a bioinformatics and genetics lab.
 
-## Languages and Frameworks
+## Languages
 
 R, Python, C++, Bash
