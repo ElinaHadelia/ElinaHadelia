@@ -21,6 +21,6 @@ I'm currently enrolled in CUNY Graduate Center's Master's in Data Science Progra
 
 ## Languages
 
-R, Python, C++, Bash
+R, Python, Bash, C++
 
 [Linkedin](https://www.linkedin.com/in/elinahadelia/)
