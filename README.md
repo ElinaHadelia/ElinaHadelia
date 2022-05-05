@@ -20,6 +20,6 @@ I am Elina. I am a full time bioinformatician, currently enrolled in CUNY Gradua
 
 ## Languages
 
-R, Python, Bash, C++
+R, Python, Bash, SQL, C++
 
 [Linkedin](https://www.linkedin.com/in/elinahadelia/)
