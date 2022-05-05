@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am Elina. I am a full time bioinformatician, currently enrolled in CUNY Graduate Center's Master's in Data Science Program. 
+I am Elina. I am a full time bioinformatician, currently also enrolled in a graduate Data Science Program. 
 
 ## Languages
 
