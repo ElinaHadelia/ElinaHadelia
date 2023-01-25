@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am Elina. I am a software developer, a former bioinmformatian, currently part-time enrolled in a graduate Data Science Program. 
+I am Elina. I am a software developer, a former bioinformatician, currently part-time enrolled in a graduate Data Science Program. 
 
 ### Languages
 
