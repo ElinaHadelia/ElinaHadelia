@@ -20,7 +20,7 @@ I am Elina. I am a software developer, a former bioinformatician, currently part
 
 ### Languages
 
-R, Python, Bash, SQL, C++
+R, Python, SQL, Bash, C++
 
 [Linkedin](https://www.linkedin.com/in/elinahadelia/)
 
